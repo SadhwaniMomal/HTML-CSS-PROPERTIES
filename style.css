@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.one {
+  background-color: rgb(95, 208, 243);
+  text-align: justify;
+  padding: 90px;
+  font-size: x-large;
+}
+.two {
+  background-color: rgb(255, 253, 134);
+  text-align: justify;
+  padding: 90px;
+  font-size: x-large;
+}
+
+h1 {
+  padding-bottom: 10px;
+}
